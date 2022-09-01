@@ -1,1 +1,1 @@
-Writting a script that prints the current working directory
+Show contents in the directory
